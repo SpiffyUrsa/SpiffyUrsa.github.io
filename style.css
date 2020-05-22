@@ -2,6 +2,11 @@ body {
     padding-top: 70px;
 }
 
+#welcome {
+    background-image: url("sky.jpg");
+    background-size: 100% 100%;
+}
+
 .personal {
     width: 35%;
     height: 35%;
